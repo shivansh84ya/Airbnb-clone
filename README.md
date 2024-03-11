@@ -5,6 +5,7 @@ Hotel Finder is an individual project developed within a span of three days. It'
 
 ## Deployment
 The project is deployed and can be accessed via the following link:
+Link : https://airbnb-clone-eight-chi.vercel.app/
 
 
 ## Screenshots 
