@@ -9,8 +9,13 @@ Link : https://airbnb-clone-eight-chi.vercel.app/
 
 
 ## Screenshots 
+#Home Page
 ![Project Screenshot](airbnbHome.png)
+
+#Hotel Page
 ![Project Screenshot](hotelpage.png)
+
+#Calender Page
 ![Project Screenshot](hotelcal.png)
 
 
